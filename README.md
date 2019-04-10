@@ -1,2 +1,2 @@
-# Dimensionchain-Protocol
-This is the core protocol set of Dimension-G.
+# Dim-Protocol
+This is the core protocol set of Dim.
